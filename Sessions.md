@@ -1,6 +1,3 @@
-# Second session (July 2nd)
-
-
 ## First session with Peter and Matt
  - https://github.com/danswer-ai/danswer/blob/main/CONTRIBUTING.md
  - https://docs.danswer.dev/system_overview
@@ -19,3 +16,8 @@
 ## Second session with Peter and Matt
 - Matt teaches Peter the ins and outs of GUIs.
 - A live view of the edits.
+- Co-author investigation
+
+## Third session
+ - goal: get Danswer up and running
+ - recreate initial error
