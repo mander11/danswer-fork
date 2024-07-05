@@ -21,3 +21,6 @@
 ## Third session
  - goal: get Danswer up and running
  - recreate initial error
+
+## Fourth session 
+ - Intro for Marc Matsen
