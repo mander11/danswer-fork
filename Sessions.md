@@ -24,3 +24,5 @@
 
 ## Fourth session 
  - Intro for Marc Matsen
+ - Working on co-committing
+ 
