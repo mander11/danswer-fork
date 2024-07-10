@@ -26,3 +26,13 @@
  - Intro for Marc Matsen
  - Working on co-committing
  
+## Fifth session
+ - Fixed pip install
+ - CPU architectures / GPU / graphical cards (nvidia)
+ - co-committng
+ $ git commit -m "Refactor usability tests.
+>
+>
+Co-authored-by: NAME <NAME@@users.noreply.github.com>
+Co-authored-by: ANOTHER-NAME <ANOTHER-NAME@EXAMPLE.COM>"
+
