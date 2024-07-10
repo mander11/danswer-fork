@@ -33,6 +33,6 @@
  $ git commit -m "Refactor usability tests.
 >
 >
-Co-authored-by: NAME <NAME@@users.noreply.github.com>
+Co-authored-by: Peter <pbrumblay@users.noreply.github.com>
 Co-authored-by: ANOTHER-NAME <ANOTHER-NAME@EXAMPLE.COM>"
 
